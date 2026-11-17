@@ -4,6 +4,10 @@ Este repositorio es para **equivocarse sin miedo**. Aquí practicamos lo que se 
 
 No hay nada que romper: todo el contenido es de práctica.
 
+## Empieza aquí
+
+Lee la **[guía: qué debes hacer](GUIA.md)**. Te lleva de principio a fin y trae qué hacer si algo falla.
+
 ## Tareas
 
 | # | Tarea | Hoja |
